@@ -1,0 +1,18 @@
+---
+title: "About"
+image: images/Sylvie.jpeg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+---
+
+This is a blog about plants I see on my morning walks with our dog Sylvie. Behind our house is a wooded greenspace with forest paths and a seasonal creek. It is home to a large variety of native plants and woodland creatures like squirrels, birds, mice, moles, rabbits, and coyotes. I take pictures of plants I see as we walk through the woods and I log them in this blog. I use an OpenAI chat tool with the R package 'ellmer' to help identify the plant from the picture and to provide some interesting history and other facts about each plant. My goal is to document every plant growing in our greenspace. Wish me luck!
